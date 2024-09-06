@@ -1,0 +1,2 @@
+Lane-Detect-Segmentation-main/* filter=lfs diff=lfs merge=lfs -text
+Vehicle-Detect/* filter=lfs diff=lfs merge=lfs -text
